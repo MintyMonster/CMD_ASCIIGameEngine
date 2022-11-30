@@ -1,0 +1,2 @@
+C:\Users\camer\source\repos\ASCIIGameEngine\Debug\ASCIIGameEngine.exe
+C:\Users\camer\source\repos\ASCIIGameEngine\Debug\ASCIIGameEngine.pdb
